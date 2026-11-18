@@ -1,0 +1,5 @@
+node_modules/
+.pyramid-cache/
+acceptance/summary.json
+*.log
+.DS_Store
